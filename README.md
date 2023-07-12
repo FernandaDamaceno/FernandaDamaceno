@@ -13,13 +13,13 @@ Sou analista de dados e busco me desenvolver cada vez mais. Atuei em qualidade e
 ##
 
 ### Você também me encontra em:
-<a href="https://br.linkedin.com/in/fernanda-mendes-de-lima-damaceno">
+<a href="https://www.linkedin.com/in/fernanda-mendes-de-lima-damaceno-309929124/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 ##
 
 ### Veja abaixo os projetos que desenvolvi:
-- Automação de Processo em Python;
-- Automação de web em Python;e
+- Automação de Processos em Python;
+- Automação web em Python;e
 - Relatórios em Power BI.
