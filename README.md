@@ -1,4 +1,4 @@
-### Olá, Sou Fernanda!
+### Olá, sou Fernanda!
 Sou analista de dados e busco me desenvolver cada vez mais. Atuei em qualidade e segurança dos alimentos por 8 anos dos quais 5 foram em empresas de grande e pequeno porte do segmento alimentício.
 
 - 👩🏻‍💻 Analista de dados na empresa Atento.
