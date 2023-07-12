@@ -19,7 +19,7 @@ Sou analista de dados e busco me desenvolver cada vez mais. Atuei em qualidade e
 
 ##
 
-### Veja abaixo os projetos que desenvolvi:
+### Na seção "Popular repositories" veja os projetos que desenvolvi:
 - Automação de Processos em Python;
 - Automação web em Python;e
 - Relatórios em Power BI.
