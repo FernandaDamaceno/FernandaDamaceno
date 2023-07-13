@@ -2,7 +2,7 @@
 Sou analista de dados e busco me desenvolver cada vez mais. Atuei em qualidade e segurança dos alimentos por 8 anos dos quais 5 foram em empresas de grande e pequeno porte do segmento alimentício.
 
 - 👩🏻‍💻 Analista de dados na empresa Atento.
-- 📈 Apaixonda por dados, a partir de agosto iniciarei minha jornada de estudos em Ciência de Dados.
+- 📈 Apaixonada por dados, a partir de agosto iniciarei minha jornada de estudos em Ciência de Dados.
 - 🖥️ Atualmente mais focada em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -21,5 +21,5 @@ Sou analista de dados e busco me desenvolver cada vez mais. Atuei em qualidade e
 
 ### Na seção "Popular repositories" veja os projetos que desenvolvi:
 - Automação de Processos em Python;
-- Automação web em Python;e
+- Automação web em Python; e
 - Relatórios em Power BI.
