@@ -2,7 +2,7 @@
 Sou analista de dados e busco me desenvolver cada vez mais. Atuei em qualidade e segurança dos alimentos por 8 anos dos quais 5 foram em empresas de grande e pequeno porte do segmento alimentício.
 
 - 👩🏻‍💻 Analista de BI na empresa RGR Tecnologia.
-- 📈 Apaixonada por dados, em agosto de 2023 iniciei minha jornada de estudos para Cientista de Dados.
+- 📈 Apaixonada por dados, em maio de 2024 iniciei minha jornada de estudos para Cientista de Dados.
 - 🖥️ Atualmente mais focada em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
