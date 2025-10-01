@@ -3,6 +3,7 @@ Sou analista de dados e busco me desenvolver cada vez mais. Atuei em qualidade e
 
 - 👩🏻‍💻 Analista de BI na empresa RGR Tecnologia.
 - 📈 Apaixonada por dados, em agosto de 2025 iniciei a faculdade de Ciência de Dados.
+- Atualmente mais focada em Governança de Dados.
 - 🖥️  Conhecimentos em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
